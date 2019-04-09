@@ -1,0 +1,52 @@
+/* style.css */
+body {
+    background: #D0E4F5 url("https://i.imgur.com/rxONwf4.jpg") repeat fixed 50px 50px;
+   }
+   h1 {
+    color: #4375fd;
+    text-align: center;
+    font: italic 750% bahnschrift;
+    text-shadow: 3px 3px 0px#192FA4;
+   }
+   h2 {
+    color: #4375fd;
+    text-align: center;
+    font: bold 400% bahnschrift;
+    text-shadow: 2px 2px 0px#192FA4;
+   }
+   h3 {
+    color: #4375fd;
+    font: bold 300% bahnschrift;
+    text-align: center;
+    text-shadow: 2px 2px 0px#192FA4;
+   }
+   p {
+    color: #ececec;
+    text-align: center;
+    font: bold 140% bahnschrift;
+    text-shadow: 2px 2px 0px#000;
+   }
+   a {
+    color:  #4375fd;
+    text-align: center;
+    font: bold 100% bahnschrift;
+    text-shadow: 2px 2px 0px#000;
+   }
+   iframe {
+    width:50%;
+    height: 50%;
+    border:0;
+    overflow:hidden;
+    margin: 0 auto;
+    background-color: #000;
+    display:block;
+   }
+    img {
+    width:50%;
+    height:30%;
+    border:0;
+    overflow:hidden;
+    margin: 0 auto;
+    background-color: #000;
+    display:block;
+   }
