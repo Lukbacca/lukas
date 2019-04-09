@@ -32,7 +32,7 @@ body {
     font: bold 100% bahnschrift;
     text-shadow: 2px 2px 0px#000;
    }
-   iframe {
+   script {
     width:50%;
     height: 50%;
     border:0;
